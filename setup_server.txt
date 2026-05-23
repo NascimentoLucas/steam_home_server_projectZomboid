@@ -1,8 +1,7 @@
 //https://developer.valvesoftware.com/wiki/SteamCMD#_Linux_2
 @ShutdownOnFailedCommand 1
 @NoPromptForPassword 1
-@sSteamCmdForcePlatformType linux
-force_install_dir ./zomboid
-login anonymous
-app_update 380870 validate
-quit
+@sSteamCmdForcePlatformType linux +quit
+force_install_dir ./zomboid +quit
+login anonymous +quit
+app_update 380870 validate +quit
