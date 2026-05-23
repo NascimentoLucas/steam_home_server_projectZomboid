@@ -1,2 +1,4 @@
-// Test
-login anonymous
+//https://developer.valvesoftware.com/wiki/SteamCMD#_Linux_2
+@NoPromptForPassword 1
+force_install_dir ./zomboid
+app_update 380870 validate
