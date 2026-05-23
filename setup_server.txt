@@ -2,3 +2,4 @@
 @NoPromptForPassword 1
 force_install_dir ./zomboid
 app_update 380870 validate
+login anonymous
