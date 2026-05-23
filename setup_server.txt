@@ -4,4 +4,4 @@
 @sSteamCmdForcePlatformType linux +quit
 force_install_dir ./zomboid +quit
 login anonymous +quit
-app_update 380870 validate +quit
+app_update 380873 validate +quit
